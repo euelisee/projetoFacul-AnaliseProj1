@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\GitHub\proj-facul\Business\bin\Debug\Business.dll
+C:\Users\PC\Documents\GitHub\proj-facul\Business\bin\Debug\Business.pdb
+C:\Users\PC\Documents\GitHub\proj-facul\Business\bin\Debug\Domain.dll
+C:\Users\PC\Documents\GitHub\proj-facul\Business\bin\Debug\Infra.dll
+C:\Users\PC\Documents\GitHub\proj-facul\Business\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\GitHub\proj-facul\Business\bin\Debug\Domain.pdb
+C:\Users\PC\Documents\GitHub\proj-facul\Business\bin\Debug\Infra.pdb
+C:\Users\PC\Documents\GitHub\proj-facul\Business\bin\Debug\Infra.dll.config
+C:\Users\PC\Documents\GitHub\proj-facul\Business\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\GitHub\proj-facul\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proj-facul\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proj-facul\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\proj-facul\Business\obj\Debug\Business.dll
+C:\Users\PC\Documents\GitHub\proj-facul\Business\obj\Debug\Business.pdb

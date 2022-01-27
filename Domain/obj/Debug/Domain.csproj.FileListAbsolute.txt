@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\ProjFacul\Domain\bin\Debug\Domain.dll
+C:\Users\PC\source\repos\ProjFacul\Domain\bin\Debug\Domain.pdb
+C:\Users\PC\source\repos\ProjFacul\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ProjFacul\Domain\obj\Debug\Domain.dll
+C:\Users\PC\source\repos\ProjFacul\Domain\obj\Debug\Domain.pdb
+C:\Users\PC\Documents\GitHub\proj-facul\Domain\bin\Debug\Domain.dll
+C:\Users\PC\Documents\GitHub\proj-facul\Domain\bin\Debug\Domain.pdb
+C:\Users\PC\Documents\GitHub\proj-facul\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proj-facul\Domain\obj\Debug\Domain.dll
+C:\Users\PC\Documents\GitHub\proj-facul\Domain\obj\Debug\Domain.pdb
+C:\Users\PC\Documents\GitHub\proj-facul\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
